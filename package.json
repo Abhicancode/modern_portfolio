@@ -1,0 +1,14 @@
+{
+  "name": "the-portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "echo \"Hello\""
+  },
+  "author": "Abhishek Ojha",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
